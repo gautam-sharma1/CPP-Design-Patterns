@@ -1,6 +1,4 @@
-#  Design Patterns
-
-## Intro
+#  Design patterns
 
 
 
